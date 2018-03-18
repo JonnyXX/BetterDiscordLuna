@@ -1,1 +1,1 @@
-# Zx
+# BetterDiscord theme for Luna
